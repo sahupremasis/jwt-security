@@ -1,4 +1,4 @@
-package com.techprimers.security.jwtsecurity;
+package com.security.jwtsecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
